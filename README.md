@@ -1,3 +1,4 @@
+Its a Jar Package, Port 8080
 # Build Project Using Maven
 
 Maven is java based build tool to generate executable 
